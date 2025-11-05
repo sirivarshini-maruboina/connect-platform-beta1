@@ -4,9 +4,9 @@
 ## Team Name/Number: [Beta1]
 
 ## Team Members
-- [Nafeesa] – [GitHub Username]
-- [Sara] – [GitHub Username]
-- [Uswa] – [GitHub Username]
+- [Nafeesa] – [Nafeesa2524]
+- [Sara] – []
+- [Uswa] – [Uswa729]
 
 ## Project Description
 This project implements the Connect platform, a web-based system that helps students and companies collaborate on real-world projects. It includes a landing page, dashboards, and project listings.
