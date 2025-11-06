@@ -24,7 +24,7 @@ This project implements the Connect platform, a web-based system that helps stud
 - GitHub Pages
 
 ## Individual Contributions
-### [Nafeesa]
+### [Siri and Nafeesa]
 - Implemented landing page HTML structure
 - Created responsive navigation bar
 
