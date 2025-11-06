@@ -4,6 +4,7 @@
 ## Team Name/Number: [Beta1]
 
 ## Team Members
+- [Siri] - [sirivarshini-maruboina]
 - [Nafeesa] – [Nafeesa2524]
 - [Sara] – [CodesBySara]
 - [Uswa] – [Uswa729]
